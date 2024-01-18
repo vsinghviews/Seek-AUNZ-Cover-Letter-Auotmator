@@ -8,10 +8,10 @@ You still have to manually apply for jobs either through Seek or through the adv
 
 2. Finding the delete button. ChatGPT can also help with teaching how to find code when it is buried, e.g., before the site revision, the delete button was in each jobs box'd section. After the revision the delete button was turned into a popup which you had to press 2 buttons to get to. As easy and dumb as this sounds I had to automate this because Seek decided to remove the funciallity of hiding expired jobs, so say for exmaple you had over 100+ jobs saved and in no paritulcar order, they expired at an interval not known to you. You then get a saved job list that has jobs you can apply for and others that you can't and when you run the automation script, you run into errors like I did and or re-program the script to skip expired jobs but then you have a list of expired jobs in you're saved jobs list. Insert (Seek Expired Ejecto) I have added the file to this repoistery which deletes all jobs in you're saved job list. I would recomend only running it after you have applied for the jobs in youre list. This give you a) Incentive to apply for all the jobs you saved and b) Can give you mini project to script/code to skip all active jobs and delete just expired jobs. You could even merge this into one document like I should of have done but my main goal was to get something funcationing that I could use and show. 
 
-#Improvements that can be made:</br>
+# Improvements that can be made:</br>
 1. Have the program automatically run at set schedules, however I find it's easier to just run it once you have saved all the jobs you're looking to apply for and then run the script.</br>
 2. Adding or merging the deletion script to this one, which would then allow you to delete expired jobs while you scrap you're saved job list. 
 
-#How to use this program:</br>
+# How to use this program:</br>
 You just have to have Python installed and inserted into you're system variables. Also need to know how to use the IDLE interface and or how to run code once you have written it. I would advise learning Python by watching Automate the Boring Stuff on Udemy. Which is how I learnt how to create this and the creator gives out a free code every month on Reddit which is for a lifetime :D. 
 
