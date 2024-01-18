@@ -1,5 +1,4 @@
-**#How the project idea came about:
-**
+**#How the project idea came about:**
 I have been unemployed and employed throughtout recent years. I have my standard C.V but most employers want a cover letter customisted for that particular job. Having over 40+ jobs a week I save and apply to, I thought I could automate this. Come last year when I taught myself how to code in Python, I learnt the skills required to automate this particular problem I was facing. Saving me time and improving my effeincy in applying. I created this script/program to scrap SEEK.co.nz and Seek.co.au which are the job boards I use to find jobs. I created the program so that based on the catgeory of the job it would alter my existing cover letter templates for those industires while changing the advertiser and the job title.</br>
 
 You still have to manually apply for jobs either through Seek or through the advertisers own careers page. However, what this program basically does is, automate customizing cover letters for specific jobs you have saved and want to apply for.</br>
